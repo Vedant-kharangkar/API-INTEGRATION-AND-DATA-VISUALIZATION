@@ -108,6 +108,18 @@ By completing this project, you’ll learn:
 3. Install any missing libraries using `!pip install` (e.g., `requests`, `matplotlib`)  
 4. Run the code cells and view output directly in the browser
 
+# OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ca467d49-9779-42d1-a363-3db3a02b4efd" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ee912cc2-a8b4-460e-9ead-3ec7f0d1b78b" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fd3bbb8c-44ab-4fec-b0e4-5161353037e9" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/eb92a11e-0379-4acf-a1ee-2144cf72edbe" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a28f4c2f-2454-4484-9d73-cefd9324410b" />
+
 
 
 
