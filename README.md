@@ -106,19 +106,11 @@ By completing this project, you’ll learn:
 1. Open **[Google Colab](https://colab.research.google.com/)**  
 2. Paste the full Python code into a new notebook  
 3. Install any missing libraries using `!pip install` (e.g., `requests`, `matplotlib`)  
-4. Run the code cells and view output directly in the browser  
+4. Run the code cells and view output directly in the browser
 
----
 
-> ⚠️ *Make sure to replace the placeholder API key with your actual OpenWeatherMap API key.*
 
----
 
-## 🙌 Contributions & Feedback
-
-Feel free to fork this repo, open issues, or suggest improvements via pull requests!
-
----
 
 
 
